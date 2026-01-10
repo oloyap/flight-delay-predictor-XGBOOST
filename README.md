@@ -1,5 +1,4 @@
 # flight-delay-predictor-XGBOOST
-# ✈️ flight-delay-predictor-xgboost
 
 ## Overview
 This project builds a machine learning system to estimate **flight delay risk**
