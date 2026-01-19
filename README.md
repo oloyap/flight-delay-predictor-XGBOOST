@@ -1,9 +1,10 @@
 # flight-delay-predictor-XGBOOST
 
 ## Overview
+Dataset - https://www.kaggle.com/datasets/nalisha/flight-delay-and-cancellation-data-1-million-2024/data
 This project builds a machine learning system to estimate **flight delay risk**
 using operational and historical flight data.
-Dataset - https://www.kaggle.com/datasets/nalisha/flight-delay-and-cancellation-data-1-million-2024/data
+
 Rather than focusing only on predictive accuracy, the project evaluates how
 model outputs should be used in **real airline operations**, where false alarms
 and missed delays carry real costs.
